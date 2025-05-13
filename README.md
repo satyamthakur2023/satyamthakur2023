@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 - 🌱 Currently diving deep into **new technologies** and exploring various domains in **programming**.
 - 💻 I enjoy building responsive, user-friendly **web applications** and learning modern development tools and frameworks.
 - 💞️ Open to collaborate on **web development projects**, especially front-end or full-stack applications.
-- 📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/satyam-thakur-674ba9330?) or email me directly at: **your-email@example.com**
+- 📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/satyam-thakur-674ba9330?) or email me directly at: **Satyamthakuraiml@gmail.com**
 - 😄 Pronouns: **Thakur**
 - ⚡ Fun fact: I believe in *"Never stop learning!"* — my energy is always high when it comes to exploring new things. 🚀
 
